@@ -6,6 +6,7 @@ server/node_modules/
 # Сборки
 client/dist/
 server/dist/
+build/
 
 # Логи
 *.log
@@ -15,6 +16,7 @@ npm-debug.log*
 .env
 server/.env
 client/.env
+*.env.local
 
 # Кэш
 .cache/
