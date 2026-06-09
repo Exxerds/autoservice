@@ -1,0 +1,32 @@
+# Зависимости
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Сборки
+client/dist/
+server/dist/
+
+# Логи
+*.log
+npm-debug.log*
+
+# Окружение (секреты!)
+.env
+server/.env
+client/.env
+
+# Кэш
+.cache/
+.vite/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+*.swo
