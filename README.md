@@ -190,7 +190,7 @@ autoservice/
 
 ## 👤 Автор
 
-- 💬 Telegram: [@danidmit](https://t.me/danidmit)
+- 💬 Telegram: [@yesfuturea](https://t.me/yesfuturea)
 - 💻 GitHub: [@dArkSOulsSq](https://github.com/dArkSOulsSq)
 
 ## 📄 Лицензия
