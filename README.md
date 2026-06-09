@@ -1,5 +1,19 @@
 # 🔧 АвтоСервис — Сайт + CRM
+## 🌐 Демо
 
+| | Ссылка |
+|--|--------|
+| 🌍 **Сайт** | [autoservice-pi.vercel.app](https://autoservice-pi.vercel.app) |
+| 🔧 **CRM** | [autoservice-pi.vercel.app/crm/login](https://autoservice-pi.vercel.app/crm/login) |
+| 📡 **API** | [autoservice-6g47.onrender.com](https://autoservice-6g47.onrender.com) |
+
+### 🔑 Тестовый доступ в CRM
+- **Email:** `admin@test.ru`
+- **Пароль:** `123456`
+
+> ⏱️ Первая загрузка может занять 30-60 секунд — бесплатный сервер Render начинает работать после простоя
+
+---
 Full-stack веб-приложение для сети автосервисов: публичный сайт с онлайн-записью и полноценная CRM-панель для менеджеров.
 
 ![Stack](https://img.shields.io/badge/React-19-blue) ![Stack](https://img.shields.io/badge/Node.js-Express-green) ![Stack](https://img.shields.io/badge/PostgreSQL-15-blue) ![Stack](https://img.shields.io/badge/TypeScript-5-blue) ![Stack](https://img.shields.io/badge/Tailwind-3-cyan)
