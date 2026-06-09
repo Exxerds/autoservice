@@ -94,12 +94,6 @@ Full-stack веб-приложение для сети автосервисов:
 **Вход для менеджеров**
 ![CRM Login](./screenshots/crm-login.png)
 
-**Dashboard**
-![Dashboard](./screenshots/crm-dashboard.png)
-
-**Kanban-доска лидов**
-![Лиды](./screenshots/crm-leads.png)
-
 **Карточка лида**
 ![Карточка лида](./screenshots/crm-lead-card.png)
 ## 🚀 Запуск проекта
