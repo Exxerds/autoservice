@@ -5,7 +5,8 @@ Full-stack веб-приложение для сети автосервисов:
 ![Stack](https://img.shields.io/badge/React-19-blue) ![Stack](https://img.shields.io/badge/Node.js-Express-green) ![Stack](https://img.shields.io/badge/PostgreSQL-15-blue) ![Stack](https://img.shields.io/badge/TypeScript-5-blue) ![Stack](https://img.shields.io/badge/Tailwind-3-cyan)
 
 ## 📋 Описание
-
+> Учебный проект для портфолио. Полностью функциональный full-stack: 
+> от формы записи на сайте до Kanban-доски в CRM.
 Проект состоит из двух частей:
 
 ### 🌐 Публичный сайт
@@ -38,7 +39,19 @@ Full-stack веб-приложение для сети автосервисов:
 - PostgreSQL
 - JWT (jsonwebtoken)
 - bcryptjs (хеширование паролей)
+## 📸 Скриншоты
 
+### Главная страница
+![Главная](./screenshots/home.png)
+
+### CRM Dashboard
+![Dashboard](./screenshots/crm-dashboard.png)
+
+### Kanban лидов
+![Лиды](./screenshots/crm-leads.png)
+
+### Карточка лида
+![Карточка лида](./screenshots/crm-lead-card.png)
 ## 🚀 Запуск проекта
 
 ### Требования
@@ -47,7 +60,7 @@ Full-stack веб-приложение для сети автосервисов:
 
 ### 1. Клонирование
 \`\`\`bash
-git clone https://github.com/ТВОЙ_НИК/autoservice.git
+git clone https://github.com/dArkSOulsSq/autoservice.git
 cd autoservice
 \`\`\`
 
@@ -133,9 +146,14 @@ autoservice/
 
 ## 👤 Автор
 
-- Telegram: @danidmit
-- GitHub: @dArkSOulsSq
+- 💬 Telegram: [@danidmit](https://t.me/danidmit)
+- 💻 GitHub: [@dArkSOulsSq](https://github.com/dArkSOulsSq)
 
 ## 📄 Лицензия
 
 MIT
+## 💭 От автора
+
+Это мой первый большой full-stack проект. Делал с нуля, разбирался с TypeScript, JWT, 
+PostgreSQL JOIN-запросами и React Context. Если есть вопросы или хочешь дать обратную 
+связь - пиши в Telegram!
